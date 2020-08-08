@@ -5,7 +5,6 @@ emih@semih-OMEN-by-HP-Laptop-17-an0xx:~/Downloads/code_pt/arty/build$ make
 /home/semih/Downloads/code_pt/arty/src/main.cpp: In function ‘int main(int, char**)’:
 /home/semih/Downloads/code_pt/arty/src/main.cpp:249:89: error: no matching function for call to ‘min(size_t&, int&)’
  e_t y = std::max(0, debug_ymin), h = std::min(img.height, debug_ymax); y < h; y++) {
-   https://docs.google.com/document/d/1mr4IoH4oIGQlYSzu1C3YUPW0VmgcmRn45r4CU2yk4Rw/edit?usp=sharing                                                                  ^
 In file included from /usr/include/c++/7/bits/char_traits.h:39:0,
                  from /usr/include/c++/7/ios:40,
                  from /usr/include/c++/7/ostream:38,
